@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this file added in remote reppository
+=======
+this file added to feature branch
+
+>>>>>>> 00f2a14 (r2 added in fb)
